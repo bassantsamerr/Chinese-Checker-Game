@@ -36,7 +36,7 @@ Our Heuristic is:
 
 Other Information:
 
--We've choosen Alpha-Beta Purning.
+-We've choosen Alpha-Beta Pruning.
 
 -Our Moves is:
 	-hopDownLeft
